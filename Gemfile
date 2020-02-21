@@ -36,7 +36,7 @@ gem 'bcrypt', '~> 3.1.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'bootstrap-will_paginate'
 gem 'bootstrap-datetimepicker-rails', github: 'shah743/bootstrap-datetimepicker-rails'
 gem 'bootstrap-datepicker-rails'
